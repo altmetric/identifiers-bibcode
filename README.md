@@ -2,7 +2,7 @@
 
 Extract, validate and normalize [ADS Bibcodes](http://adsabs.harvard.edu/abs_doc/help_pages/data.html).
 
-**Current version:** 0.1.0  
+**Current version:** 0.1.1  
 **Supported Node.js versions:** 4, 5, 6, 7
 
 ## Installation
