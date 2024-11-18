@@ -1,9 +1,9 @@
-# Identifiers - Bibcode [![Build Status](https://travis-ci.org/altmetric/identifiers-bibcode.svg?branch=master)](https://travis-ci.org/altmetric/identifiers-bibcode)
+# Identifiers - Bibcode
 
 Extract, validate and normalize [ADS Bibcodes](http://adsabs.harvard.edu/abs_doc/help_pages/data.html).
 
 **Current version:** 0.1.1  
-**Supported Node.js versions:** 4, 5, 6, 7
+**Supported Node.js versions:** 18, 20, 22, 23
 
 ## Installation
 
@@ -28,6 +28,6 @@ We also maintain versions of this library for [Ruby](https://github.com/altmetri
 
 ## License
 
-Copyright © 2017 Altmetric LLP
+Copyright © 2017-2024 Altmetric LLP
 
 Distributed under the [MIT License](http://opensource.org/licenses/MIT).
